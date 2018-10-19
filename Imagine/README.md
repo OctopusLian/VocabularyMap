@@ -15,6 +15,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/contract.png)  
 - corporate  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/corporate.png)  
+- cube  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/cube.png)
 - dense  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/dense.png)  
 - derive  
@@ -33,10 +35,14 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/fabric.png)  
 - fate  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/fate.png)  
+- found  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/found.png)  
 - hap  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hap.png)  
 - happy  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/happy.png)  
+- hospital  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hospital.png)  
 - impetus  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/impetus.png)  
 - introduce  
@@ -45,6 +51,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/join.png)  
 - juice  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/juice.png)  
+- mobile  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mobile.png)  
 - motor  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/motor.png)  
 - mount  
@@ -53,6 +61,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/music.png)  
 - mutual  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mutual.png)  
+- nominate  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/nominate.png)  
 - occasion  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/occasion.png)  
 - pollute  
@@ -64,4 +74,6 @@
 - pulse  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pulse.png)  
 - punish  
-![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/punish.png)
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/punish.png)  
+- thirst  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)
