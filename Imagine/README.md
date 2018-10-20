@@ -27,6 +27,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/efficient.png)  
 - electron  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/electron.png)  
+- eminent  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/eminent.png)  
 - exhibit  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/exhibit.png)  
 - experiment  
@@ -67,13 +69,25 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/occasion.png)  
 - pollute  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
+- port  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/port.png)  
 - prompt  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/prompt.png)  
+- proper  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/proper.png)  
 - provide  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/provide.png)  
 - pulse  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pulse.png)  
 - punish  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/punish.png)  
+- race  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/race.png)  
+- restrict  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/restrict.png)  
+- suffice  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/suffice.png)  
+- surgery  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/surgery.png)  
 - thirst  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)
