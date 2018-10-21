@@ -21,6 +21,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/dense.png)  
 - derive  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/derive.png)  
+- direct  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/direct.png)  
 - drag  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/drag.png)  
 - efficient  
@@ -63,6 +65,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/music.png)  
 - mutual  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mutual.png)  
+- necessity  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/necessity.png)  
 - nominate  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/nominate.png)  
 - occasion  
@@ -71,10 +75,14 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
 - port  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/port.png)  
+- program  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/program.png)  
 - prompt  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/prompt.png)  
 - proper  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/proper.png)  
+- prove  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/prove.png)  
 - provide  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/provide.png)  
 - pulse  
@@ -83,11 +91,21 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/punish.png)  
 - race  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/race.png)  
+- recur  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/recur.png)  
 - restrict  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/restrict.png)  
+- section  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/section.png)  
+- sort  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sort.png)  
 - suffice  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/suffice.png)  
 - surgery  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/surgery.png)  
+- table  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/table.png)  
 - thirst  
-![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)  
+- type  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/type.png)  
