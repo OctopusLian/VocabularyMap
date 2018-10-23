@@ -3,3 +3,5 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-vinc-vict-.png)  
 - -form-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-form-.png)  
+- -struct-  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-struct-.png)  

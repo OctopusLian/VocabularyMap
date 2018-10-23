@@ -31,6 +31,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/electron.png)  
 - eminent  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/eminent.png)  
+- enter  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/enter.png)  
 - exhibit  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/exhibit.png)  
 - experiment  
@@ -45,6 +47,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hap.png)  
 - happy  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/happy.png)  
+- hope  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hope.png)  
 - hospital  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hospital.png)  
 - impetus  
@@ -55,6 +59,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/join.png)  
 - juice  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/juice.png)  
+- liberty  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/liberty.png)  
 - mobile  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mobile.png)  
 - motor  
@@ -71,6 +77,10 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/nominate.png)  
 - occasion  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/occasion.png)  
+- order  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/order.png)  
+- perceive  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/perceive.png)  
 - pollute  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
 - port  
@@ -95,6 +105,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/recur.png)  
 - restrict  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/restrict.png)  
+- royal  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/royal.png)  
 - section  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/section.png)  
 - sort  
@@ -107,5 +119,9 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/table.png)  
 - thirst  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)  
+- thrust  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thrust.png)  
 - type  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/type.png)  
+- water  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/water.png)  
