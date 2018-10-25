@@ -8,4 +8,6 @@
 - -press-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-press-.png)  
 - -sist  
-![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-sist-.png)
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-sist-.png)  
+- lect-  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-lect-.png)  
