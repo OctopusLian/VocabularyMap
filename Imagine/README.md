@@ -61,6 +61,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/juice.png)  
 - liberty  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/liberty.png)  
+- list  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/list.png)  
 - mobile  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mobile.png)  
 - motor  
@@ -81,6 +83,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/order.png)  
 - perceive  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/perceive.png)  
+- plastic  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/plastic.png)  
 - pollute  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
 - port  
@@ -109,6 +113,14 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/royal.png)  
 - section  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/section.png)  
+- sharp  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sharp.png)  
+- sign  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sign.png)  
+- sleep  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sleep.png)  
+- social  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/social.png)  
 - sort  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sort.png)  
 - suffice  
@@ -123,5 +135,11 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thrust.png)  
 - type  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/type.png)  
+- vary  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/vary.png)  
+- vest  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/vest.png)  
+- violate  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/violate.png)  
 - water  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/water.png)  
