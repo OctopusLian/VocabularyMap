@@ -11,3 +11,7 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-sist-.png)  
 - lect-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-lect-.png)  
+- miss-mit  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/miss-mit.png)  
+- sci  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/sci.png)  
