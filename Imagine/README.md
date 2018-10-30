@@ -9,6 +9,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/calculate.png)  
 - cease  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/cease.png)  
+- civil  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/civil.png)  
 - comprehend  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/comprehend.png)  
 - contract  
@@ -103,6 +105,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pulse.png)  
 - punish  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/punish.png)  
+- pure  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pure.png)  
 - race  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/race.png)  
 - recur  
