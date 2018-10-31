@@ -13,16 +13,24 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/civil.png)  
 - comprehend  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/comprehend.png)  
+- conform  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/conform.png)  
+- consume  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/consume.png)  
 - contract  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/contract.png)  
 - corporate  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/corporate.png)  
 - cube  
-![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/cube.png)
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/cube.png)  
+- democrat  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/democrat.png)  
 - dense  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/dense.png)  
 - derive  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/derive.png)  
+- deviate  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/deviate.png)  
 - direct  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/direct.png)  
 - drag  
@@ -43,6 +51,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/fabric.png)  
 - fate  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/fate.png)  
+- formula  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/formula.png)  
 - found  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/found.png)  
 - hap  
@@ -55,6 +65,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/hospital.png)  
 - impetus  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/impetus.png)  
+- induce  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/induce.png)  
 - introduce  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/introduce.png)  
 - join  
