@@ -67,6 +67,10 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/impetus.png)  
 - induce  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/induce.png)  
+- intermit  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/intermit.png)  
+- intervene  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/intervene.png)  
 - introduce  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/introduce.png)  
 - join  
@@ -77,6 +81,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/liberty.png)  
 - list  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/list.png)  
+- merge  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/merge.png)  
 - mobile  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/mobile.png)  
 - motor  
@@ -149,6 +155,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)  
 - thrust  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thrust.png)  
+- tolerate  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/tolerate.png)  
 - type  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/type.png)  
 - vary  
