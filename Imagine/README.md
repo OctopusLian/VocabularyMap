@@ -127,6 +127,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pure.png)  
 - race  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/race.png)  
+- receive  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/receive.png)  
 - recur  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/recur.png)  
 - restrict  

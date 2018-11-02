@@ -15,3 +15,5 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/miss-mit.png)  
 - sci  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/sci.png)  
+- spect  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/spect.png)  
