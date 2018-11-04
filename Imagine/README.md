@@ -105,6 +105,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/perceive.png)  
 - plastic  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/plastic.png)  
+- politics  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/politics.png)  
 - pollute  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
 - port  
