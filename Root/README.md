@@ -1,4 +1,8 @@
 ﻿## 词根记忆思维导图  
+- -cept-  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/cept.png)  
+- -duct-duc  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/duct-duc.png)  
 - -form-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-form-.png)  
 - lect-  
@@ -11,8 +15,6 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-struct-.png)  
 - -vinc-vict-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-vinc-vict-.png)  
-- -cept-  
-![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/cept.png)  
 - -lat-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/lat.png)  
 - miss-mit  
