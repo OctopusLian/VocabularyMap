@@ -13,6 +13,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/civil.png)  
 - comprehend  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/comprehend.png)  
+- compress  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/compress.png)  
 - conform  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/conform.png)  
 - consume  
@@ -77,6 +79,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/join.png)  
 - juice  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/juice.png)  
+- know  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/know.png)  
 - liberty  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/liberty.png)  
 - list  
@@ -139,6 +143,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/royal.png)  
 - section  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/section.png)  
+- sequence  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sequence.png)  
 - sharp  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sharp.png)  
 - sign  
@@ -149,12 +155,16 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/social.png)  
 - sort  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/sort.png)  
+- space  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/space.png)  
 - suffice  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/suffice.png)  
 - surgery  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/surgery.png)  
 - table  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/table.png)  
+- text  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/text.png)  
 - thirst  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/thirst.png)  
 - thrust  
