@@ -175,6 +175,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/type.png)  
 - vary  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/vary.png)  
+- venge  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/venge.png)  
 - vest  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/vest.png)  
 - violate  
