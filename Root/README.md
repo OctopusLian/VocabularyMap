@@ -23,5 +23,7 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/sci.png)  
 - spect  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/spect.png)  
+- ven-vent  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/ven-vent.png)  
 - -vis-vid-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/vis-vid.png)  
