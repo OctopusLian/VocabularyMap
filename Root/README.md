@@ -1,6 +1,10 @@
 ﻿## 词根记忆思维导图  
+- act  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/act.png)  
 - -cept-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/cept.png)  
+- clud-clus-clos  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/clud-clus-clos.png)  
 - -duct-duc  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/duct-duc.png)  
 - -form-  
@@ -15,6 +19,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-struct-.png)  
 - -vinc-vict-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-vinc-vict-.png)  
+- act  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/act.png)  
 - -lat-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/lat.png)  
 - miss-mit  
@@ -23,6 +29,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/sci.png)  
 - spect  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/spect.png)  
+- tract  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/tract.png)  
 - ven-vent  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/ven-vent.png)  
 - -vis-vid-  
