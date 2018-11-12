@@ -5,8 +5,14 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/cept.png)  
 - clud-clus-clos  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/clud-clus-clos.png)  
+- ced  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/ced.png)  
 - -duct-duc  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/duct-duc.png)  
+- fac-fec-fic  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/fac-fec-fic.png)  
+- fin  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/fin.png)  
 - -form-  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/-form-.png)  
 - lect-  
@@ -25,10 +31,14 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/lat.png)  
 - miss-mit  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/miss-mit.png)  
+- nat  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/nat.png)  
 - sci  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/sci.png)  
 - spect  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/spect.png)  
+- tain  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/tain.png)  
 - tract  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Root/Image/tract.png)  
 - ven-vent  
