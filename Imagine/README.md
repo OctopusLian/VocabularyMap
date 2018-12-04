@@ -115,6 +115,8 @@
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/pollute.png)  
 - port  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/port.png)  
+- portion  
+![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/portion.png)  
 - program  
 ![](https://github.com/OctopusLian/VocabularyMap/blob/master/Imagine/Image/program.png)  
 - prompt  
